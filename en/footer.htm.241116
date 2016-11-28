@@ -3,21 +3,18 @@
   <div class="lindat-footer-main">
     <div class="lindat-footer-content lindat-container">
       <div class="lindat-footer-left">
+   	<a class="ilc-logo" href="http://hdl.handle.net/1839/00-DOCS.CLARIN.EU-99" title="ILC LOGO"> </a>
 <!--
         <a class="lindat-clarinb-logo" href="http://hdl.handle.net/1839/00-DOCS.CLARIN.EU-99" title="Clarin B Center"> </a>
         <a class="lindat-dsa-logo" href="https://assessment.datasealofapproval.org/assessment_92/seal/html" title="Data Seal of Approval"> </a>
         <a class="lindat-clarink-logo" href="http://hdl.handle.net/1839/00-DOCS.CLARIN.EU-114" title="Clarin K Center"> </a>
 -->
-        <a class="ilc-clarin-logo" href="http://clarin-it.ilc.cnr.it" title="ILC4CLARIN"> </a>
       </div>
       <div class="lindat-footer-text">
         <div class="lindat-footer-text1">
-          <h1>Coordination, Partners, Funding</h1>
+          <h1>Partners, Coordination, Funding</h1>
 
-<ul><li><a href="http://www.ilc.cnr.it">Institute for Computational Linguistics "Antonio Zampolli" - Italian National Research Council</a></li>
-    <li><a href="http://www.istruzione.it">Italian Ministry of Education, University and Research</a></li>
-    </ul>
-
+  <ul><li><a href="http://www.example.org">put an interesting stuff here</a></li></ul>
 <!--  <ul><li><a href="http://www.kky.zcu.cz/en">Dept. of Cybernetics, Univ. of West Bohemia</a></li>
     <li><a href="http://ufal.mff.cuni.cz">Institute of Formal and Applied Linguistics (Prague)</a></li>
     <li><a href="http://www.ujc.cas.cz">Institute of Czech Language (Prague)</a></li>
@@ -28,19 +25,17 @@
         </div>
         <div class="lindat-footer-text2">
           <h1>Repository</h1>
-        <ul><li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/?locale-attribute=en">Main Page</a></li>
-    <li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/item-lifecycle?locale-attribute=en">Submission Lifecycle</a></li>
-    <li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/faq?locale-attribute=en">FAQ</a></li>
-    <li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/about?locale-attribute=en">About and Policies</a></li>
-    <li><a href="mailto:dspace-clarin-it-ilc-help@ilc.cnr.it">Help Desk</a></li>
+  <ul><li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/">Main page</a></li>
+    <li><a href="http://www.clarin.ilc.cnr.it/en/content/about">Contact</a></li>
+    <li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/item-lifecycle">Submission Lifecycle</a></li>
+    <li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/faq">FAQ</a></li>
+    <li><a href="https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/page/about">About and Policies</a></li>
     </ul>
-	</div>
+        </div>
         <div class="lindat-footer-text3">
           <h1>More</h1>
-  <ul><li><a href="http://www.clarin.eu">CLARIN</a></li>
-    </ul>
-
-<!--<ul><li><a href="https://lindat.mff.cuni.cz/en/clarin-knowledge-centre">CLARIN Knowledge Centre</a> | <a href="http://clarino.uib.no/iness/page?page-id=Getting_started">INESS</a></li>
+  <ul><li><a href="https://www.example.org">CLARIN Knowledge Centre</a> </li></ul>
+  <!--<ul><li><a href="https://lindat.mff.cuni.cz/en/clarin-knowledge-centre">CLARIN Knowledge Centre</a> | <a href="http://clarino.uib.no/iness/page?page-id=Getting_started">INESS</a></li>
     <li><a href="http://www.clarin.eu/">CLARIN</a></li>
     <li><a href="http://www.meta-net.eu/">META-Net</a></li>
     <li><a href="https://lindat.mff.cuni.cz/en/monitoring">Service Status</a></li>
@@ -50,16 +45,21 @@
         </div>
       </div>
       <div class="lindat-footer-right">
-<!--        <a class="lindat-logo-mono" href="http://lindat.mff.cuni.cz/lindat/" title="LINDAT/CLARIN"> </a>  -->
-        <a class="clarin-it-logo" href="http://www.clarin-it.it" title="CLARIN-IT"> </a> 
+<!--
+        <a class="lindat-logo-mono" href="http://lindat.mff.cuni.cz/lindat/" title="LINDAT/CLARIN"> </a>
+        <a class="lindat-msmt-logo" href="http://www.msmt.cz/" title="MŠMT"> </a>
+-->
+      <a href="http://www.clarin.ilc.cnr.it/en/content/about" target="_blank"><span>About</span></a>
+
       </div>
     </div>
   </div>
   <div class="lindat-copyright">
     <p>
       <!--<strong><span>THE LINDAT/CLARIN PROJECT (LM2010013) IS FULLY SUPPORTED BY THE MINISTRY OF EDUCATION, SPORTS</span><br /><span>AND YOUTH OF THE CZECH REPUBLIC UNDER THE PROGRAMME LM OF &quot;LARGE INFRASTRUCTURES&quot;.</span></strong> -->
+      <strong><span>PUT HERE SOMETHING REALLY IMPORTANT XXXX AS THE <a href="http://www.ilc.cnr.it/en" target="_blank">ILC LOGO </a></span></strong>
     </p>
-    <p>Copyright (c) 2016 ILC4CLARIN CNR. All rights reserved.</p>
+    <p>Copyright (c) 2015 ILC CNR. All rights reserved.</p>
   </div>
   
   <script type="text/javascript">
