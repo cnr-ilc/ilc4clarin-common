@@ -59,7 +59,7 @@
     "less": "^2.5.3",
     "less-loader": "^2.2.1",
     "lodash": "^3.10.1",
-    "mversion": "^1.10.1",
+    "mversion": "^2.0.0",
     "ng-annotate-loader": "0.0.10",
     "optimist": "^0.6.1",
     "pm2": "^0.15.7",
